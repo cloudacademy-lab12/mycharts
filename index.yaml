@@ -3,12 +3,12 @@ entries:
   eventapp-lab12:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-21T10:26:58.5479707+09:00"
+    created: "2020-04-21T11:11:51.5351599+09:00"
     description: A Helm chart for Kubernetes
     digest: 824a23d1d943cc8458a39fdac05f34e6cbf0f997cda86c20a53b03a77c7da55f
     name: eventapp-lab12
     type: application
     urls:
-    - https://github.com/cloudacademy-lab12/mycharts.git/eventapp-lab12-0.1.0.tgz
+    - https://cloudacademy-lab12.github.io/mycharts/eventapp-lab12-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-21T10:26:58.5469679+09:00"
+generated: "2020-04-21T11:11:51.4851555+09:00"
